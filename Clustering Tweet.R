@@ -35,7 +35,7 @@ library('fpc')
 library('cluster')
 library('datasets')
 
-# Twitter with account: @adhamhayukalbu in Developer Mode
+# Twitter with account: @nikofitrianto in Developer Mode
 # Params:
 # 1). Consumer Key
 # 2). Consumer Secret Key
